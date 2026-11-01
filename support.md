@@ -8,7 +8,7 @@
 
 **Map:** levels unlock one by one across four floating isles. Each solve brings its island back to life.
 
-**Remove ads:** a one-time purchase in the main menu. Reinstalled the game or got a new phone? Tap *Restore purchase* in the main menu.
+**Ads:** the game is free. An ad may appear between levels (never in the first three), and you can watch an optional video ad for an extra hint.
 
 **Progress:** stored on your device only. Deleting the app deletes your progress.
 
@@ -18,4 +18,4 @@
 
 ---
 
-**Türkçe:** Bir prizmaya dokun, 90° döner ve ışık canlı olarak onu izler. Her ışını kendi rengindeki çekirdeğe ulaştır; mavi ve kırmızı birlikte altın olur. Takılırsan *İpucu*'na dokun. Reklamları kaldırmak için ana menüdeki tek seferlik satın almayı kullan; yeni telefonda *Satın alımı geri yükle*'ye dokun. İlerlemen yalnızca cihazında saklanır. İletişim: ulstsc00@gmail.com
+**Türkçe:** Bir prizmaya dokun, 90° döner ve ışık canlı olarak onu izler. Her ışını kendi rengindeki çekirdeğe ulaştır; mavi ve kırmızı birlikte altın olur. Takılırsan *İpucu*'na dokun. Oyun ücretsizdir; bölüm aralarında ara sıra reklam çıkar (ilk üç bölümde asla). İlerlemen yalnızca cihazında saklanır. İletişim: ulstsc00@gmail.com
